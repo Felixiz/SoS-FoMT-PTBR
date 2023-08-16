@@ -5005,165 +5005,109 @@ a carinha de &lt;childname&gt;.&lt;wait&gt;</Entry>
   <Entry Index="2239">Estou cansado, gostaria de ir para casa.&lt;wait&gt;</Entry>
   <Entry Index="2240">Estou cansado, muito cansado para falar.&lt;wait&gt;</Entry>
   <Entry Index="2241">&lt;nickname&gt;, eu estou indo para casa agora.&lt;wait&gt;</Entry>
-  <Entry Index="2242">&lt;nickname&gt;, quanto dinheiro você ganhou hoje?&lt;wait&gt;</Entry>
-  <Entry Index="2243">&lt;nickname&gt;, ¿cómo va la granja?&lt;wait&gt;</Entry>
-  <Entry Index="2244">Está bien tener tierras... digo, una casa, sí. Es relajante.&lt;wait&gt;</Entry>
-  <Entry Index="2245">&lt;nickname&gt;, trabajas muy duro, sí.
-Me gusta la gente que trabaja duro.&lt;wait&gt;</Entry>
-  <Entry Index="2246">Eres mi esposa ideal, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="2247">Eres mi marido ideal, &lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="2248">¡Ay! &lt;nickname&gt;, ¿qué ocurre?&lt;wait&gt;</Entry>
-  <Entry Index="2249">No está bien moverse tanto cuando llevas un bebé en tu
-interior, no.&lt;wait&gt;</Entry>
-  <Entry Index="2250">¡Aaaaay! ¿Qué está haciendo &lt;childname&gt;?&lt;wait&gt;</Entry>
-  <Entry Index="2251">Aparto la vista y desaparece en un instante. Qué precoz,
-sí. ¿Debería preocuparme?&lt;wait&gt;</Entry>
-  <Entry Index="2252">No tengo nada que hablar contigo.
-Debo irme a casa.&lt;wait&gt;</Entry>
-  <Entry Index="2253">&lt;nickname&gt;, ¿ocurre algo?&lt;wait&gt;</Entry>
-  <Entry Index="2254">Últimamente hablamos menos, sí.
-¿He hecho algo malo?&lt;wait&gt;</Entry>
-  <Entry Index="2255">¡Ay! &lt;nickname&gt;, eres tú.&lt;wait&gt;</Entry>
-  <Entry Index="2256">No es sensato ir por ahí con mucho dinero, no. Si está en
-tu bolsillo, querrás gastarlo. Eso es malo.&lt;wait&gt;</Entry>
-  <Entry Index="2257">&lt;nickname&gt;, has encontrado alguna forma de
-ganar mucho dinero?&lt;wait&gt;</Entry>
-  <Entry Index="2258">Eres tan importante para mí como el dinero,
-&lt;nickname&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="2259">¡Ay! &lt;nickname&gt;, eres tú.
-¿Te pasa algo?&lt;wait&gt;</Entry>
-  <Entry Index="2260">Juntos, ganamos mucho dinero, sí. El matrimonio es
-nuestro camino hacia el lujo, por una jubilación de paz y
-tranquilidad.&lt;wait&gt;</Entry>
-  <Entry Index="2261">Juntos, ganamos mucho dinero, sí. El matrimonio es
-nuestro camino hacia el lujo, por una jubilación de paz y
-tranquilidad.&lt;wait&gt;</Entry>
-  <Entry Index="2262">Ah. &lt;playername&gt;. Se me había olvidado por completo,
-con todas mis obligaciones de alcalde...&lt;wait&gt;&lt;page&gt;
-Gracias por recordarme que hoy es mi cumpleaños.
-Y por cierto, es un regalo magnífico, un verdadero botín.&lt;wait&gt;</Entry>
-  <Entry Index="2263">¡Jo, jo, jo! ¡Un regalo espléndido!
-Has descubierto mi punto débil, &lt;gender&gt;("pillín","pillina"). Muchas gracias.&lt;wait&gt;</Entry>
-  <Entry Index="2264">¡Jo, jo! ¿Qué tenemos aquí?
-¡Ah, magnífico, sí!
-Me gusta mucho. Muchas gracias.&lt;wait&gt;</Entry>
-  <Entry Index="2265">Muy amable por tu parte.
-Siempre me han gustado mucho los regalos.&lt;wait&gt;</Entry>
-  <Entry Index="2266">¿Jo, jo? ¿Qué tenemos...?
+<Entry Index="2242">&lt;nickname&gt;, quanto dinheiro você ganhou hoje?&lt;wait&gt;</Entry>
+<Entry Index="2243">&lt;nickname&gt;, como está a fazenda?&lt;wait&gt;</Entry>
+<Entry Index="2244">É bom ter terras... quer dizer, uma casa, sim. É relaxante.&lt;wait&gt;</Entry>
+<Entry Index="2245">&lt;nickname&gt;, você trabalha muito duro, sim.
+Gosto de pessoas que trabalham duro.&lt;wait&gt;</Entry>
+<Entry Index="2246">Você é a minha esposa ideal, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+<Entry Index="2247">Você é o meu marido ideal, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+<Entry Index="2248">Ai! &lt;nickname&gt;, o que está acontecendo?&lt;wait&gt;</Entry>
+<Entry Index="2249">Não é bom se mover tanto quando se está com um bebê dentro de você, não.&lt;wait&gt;</Entry>
+<Entry Index="2250">Aaaai! O que &lt;childname&gt; está fazendo?&lt;wait&gt;</Entry>
+<Entry Index="2251">Eu desvio o olhar e desaparece num instante. Que precoce, sim. Deveria estar preocupado?&lt;wait&gt;</Entry>
+<Entry Index="2252">Eu não tenho nada para falar com você.
+Eu preciso ir para casa.&lt;wait&gt;</Entry>
+<Entry Index="2253">&lt;nickname&gt;, algo está errado?&lt;wait&gt;</Entry>
+<Entry Index="2254">Ultimamente estamos conversando menos, sim.
+Eu fiz algo errado?&lt;wait&gt;</Entry>
+<Entry Index="2255">Ai! É você, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+<Entry Index="2256">Não é sensato andar por aí com muito dinheiro, não. Se estiver no seu bolso, você vai querer gastá-lo. Isso é ruim.&lt;wait&gt;</Entry>
+<Entry Index="2257">&lt;nickname&gt;, você encontrou alguma maneira de ganhar muito dinheiro?&lt;wait&gt;</Entry>
+<Entry Index="2258">Você é tão importante para mim quanto o dinheiro, &lt;nickname&gt;.&lt;wait&gt;</Entry>
+<Entry Index="2259">Ai! É você, &lt;nickname&gt;.
+Alguma coisa está errada?&lt;wait&gt;</Entry>
+<Entry Index="2260">Juntos, nós ganhamos muito dinheiro, sim. O casamento é o nosso caminho para o luxo, para uma aposentadoria de paz e tranquilidade.&lt;wait&gt;</Entry>
+<Entry Index="2261">Juntos, nós ganhamos muito dinheiro, sim. O casamento é o nosso caminho para o luxo, para uma aposentadoria de paz e tranquilidade.&lt;wait&gt;</Entry>
+<Entry Index="2262">Ah, &lt;playername&gt;. Eu tinha me esquecido completamente, com todas as minhas obrigações como prefeito...&lt;wait&gt;&lt;page&gt;
+Obrigado por me lembrar que hoje é o meu aniversário.
+E, aliás, é um presente magnífico, um verdadeiro tesouro.&lt;wait&gt;</Entry>
+<Entry Index="2263">Jo, jo, jo! Um presente esplêndido!
+Você encontrou o meu ponto fraco, &lt;gender&gt;("espertinho","espertinha"). Muito obrigado.&lt;wait&gt;</Entry>
+<Entry Index="2264">Jo, jo! O que temos aqui?
+Ah, magnífico, sim!
+Eu realmente gosto. Muito obrigado.&lt;wait&gt;</Entry>
+<Entry Index="2265">Muito gentil da sua parte.
+Eu sempre gostei muito de presentes.&lt;wait&gt;</Entry>
+<Entry Index="2266">Jo, jo? O que temos...?
 Eh...&lt;wait&gt;</Entry>
-  <Entry Index="2267">¡Jo, jo! ¿Y qué se supone que hago con esto? Veo que has
-decidido... eh, ponerme a prueba, &lt;playername&gt;.&lt;wait&gt;</Entry>
-  <Entry Index="2268">¡Jo, jo! No me sorprende que &lt;gender&gt;("un granjero","una granjera") de tu calibre
-esté &lt;gender&gt;("acostumbrado","acostumbrada") a manejar todo tipo de animales e
-insectos.&lt;wait&gt;</Entry>
-  <Entry Index="2269">¡AAAAAY!
-¡Ayuuuuuuda!&lt;wait&gt;</Entry>
-  <Entry Index="2270">¡Bueno, bueno! ¡Un buen ejemplar, sin duda!&lt;wait&gt;&lt;page&gt;
-Muchas gracias. ¿Sabes? Si Harris decide casarse, puede
-que le regale esto a su pareja.&lt;wait&gt;</Entry>
-  <Entry Index="2271">¡Pero qué objeto más maravilloso! ¿Mmm? ¿Que es un
-regalo para mí?&lt;wait&gt;&lt;page&gt;
-Muy amable por tu parte, sí, pero creo que no le
-voy a dar mucho uso. Puede que se lo dé a la futura
-pareja de Harris.&lt;wait&gt;</Entry>
-  <Entry Index="2272">¡Pero qué objeto más maravilloso! ¿El olor no molesta a
-los animales cuando lo llevas?&lt;wait&gt;&lt;page&gt;
-¿Mmm? ¿Que es un regalo para mí? ¡Qué &lt;gender&gt;("considerado","considerada")
-eres! Muchas gracias.&lt;wait&gt;</Entry>
-  <Entry Index="2273">¡Ah, muy amable! El Día de San Valentín pierde la gracia
-si no te regalan bombones al menos una vez, ¿sabes?</Entry>
-  <Entry Index="2274">¡Ah, muy amable! El Día de San Valentín pierde la gracia
-si no te regalan bombones al menos una vez, ¿sabes?</Entry>
-  <Entry Index="2275">¡Jo, jo, jo! ¡Una noticia fantástica, sí! ¡Muy buena
-noticia! Estoy seguro de que tienes un futuro
-brillante por delante.&lt;wait&gt;</Entry>
-  <Entry Index="2276">&lt;playername&gt;, ¿has oído hablar del Valle Olvidado?&lt;wait&gt;&lt;page&gt;
-Es solo un rumor, eso sí, pero dicen que alguien que vive
-allí, ＜GCの主人公名＞, es una celebridad local.&lt;wait&gt;&lt;page&gt;
-Me gustaría conocer a esa persona... y puede que darle la
-mano, si es así de noble.&lt;wait&gt;</Entry>
-  <Entry Index="2277">Hace unos años compartí techo con un caballero que se
-llamaba Kanno.&lt;wait&gt;&lt;page&gt;
-Era fotógrafo, ¿sabes? Le gustaba mucho hacer fotos del
-paisaje de Ciudad Mineral.&lt;wait&gt;&lt;page&gt;
-Pero un día volví a casa y vi que se había ido y solo había
-dejado una carta. Me pregunto dónde estará.&lt;wait&gt;</Entry>
-  <Entry Index="2278">¡Pero bueno, lo has conseguido! ¡Has ganado nuestro
-venerable concurso gastronómico diez veces! ¡No podría
-estar más orgulloso como alcalde!&lt;wait&gt;</Entry>
-  <Entry Index="2279">Bueno, esto es solo un rumor que le escuché al alcalde de
-un pueblo vecino el otro día...&lt;wait&gt;</Entry>
-  <Entry Index="2280">Pero parece que las noticias de tu destreza y excelencia
-en nuestro ilustre concurso gastronómico han llegado
-hasta el Valle Olvidado.&lt;wait&gt;</Entry>
-  <Entry Index="2281">&lt;playername&gt;, me han dicho que superaste hasta a
-un cocinero profesional durante tu aventura culinaria. ¡Es
-impresionante!&lt;wait&gt;</Entry>
-  <Entry Index="2282">Umpf. Hazte &lt;gender&gt;("el","la") inocente, a mí no me engañas. Sé lo que
-te propones. &lt;wait&gt;&lt;page&gt;
-Qué querías, ¿escabullirte a mis espaldas? ¿Es que no
-tienes respeto por mi puesto de alcalde?&lt;wait&gt;
-</Entry>
-  <Entry Index="2283">...&lt;wait&gt;</Entry>
-  <Entry Index="2284">¿Insistes en fingir ignorancia? Te das cuenta de que
-TODO EL MUNDO está hablando de ti, ¿no?&lt;wait&gt;</Entry>
-  <Entry Index="2285">¿Qué? ¿Que no has hecho nada? No, no. Es una broma.
-ALGO habrás hecho. ¿Qué era?&lt;wait&gt;</Entry>
-  <Entry Index="2286">¡Espera...!&lt;wait&gt;</Entry>
-  <Entry Index="2287">No... ¡NO!&lt;wait&gt;</Entry>
-  <Entry Index="2288">¡Cielos! ¡No puede ser!&lt;wait&gt;</Entry>
-  <Entry Index="2289">¿Quieres usurpar mi puesto como alcalde de Ciudad
-Mineral? ¡No! No lo permitiré, ¿me oyes? ¡No lo permitiré!&lt;wait&gt;&lt;page&gt;
-¡Mi familia ha servido a este pueblo durante
-generaciones! ¡Me NIEGO a que mancilles nuestro buen
-nombre!&lt;wait&gt;</Entry>
-  <Entry Index="2290">¿Mmm? ¿Que no planeas eso?&lt;wait&gt;</Entry>
-  <Entry Index="2291">¡Ah! ¡Claro que no! ¡Jo, jo, jo! Nunca harías eso. ¡Tú no! En
-ningún momento lo decía en serio.&lt;wait&gt;&lt;page&gt;
-¡Espléndido! ¡Sí, espléndido!&lt;wait&gt;</Entry>
-  <Entry Index="2292">Bueno... ¿y de qué estábamos hablando?&lt;wait&gt;</Entry>
-  <Entry Index="2293">¡&lt;playername&gt;, no tienes parangón en Ciudad
-Mineral!
-¡Eres &lt;gender&gt;("un ciudadano","una ciudadana") ejemplar!&lt;wait&gt;</Entry>
-  <Entry Index="2294">¿Eh? ¿Que a qué me refiero? ¡Ah, venga!
-No hace falta que finjas humildad.&lt;wait&gt;&lt;page&gt;
-¡Después de todo, le pusiste fin a una guerra! &lt;gender&gt;("Cansado","Cansada")
-de tanta lucha, hablaste con los representantes de los dos
-países...&lt;wait&gt;&lt;page&gt;
-... y ablandaste sus corazones con platos caseros típicos de
-sus hogares. O eso dicen.&lt;wait&gt;</Entry>
-  <Entry Index="2295">Los representantes estuvieron tan conmovidos por tus
-platos que impusieron un alto el fuego inmediato. O eso me
-contaron.&lt;wait&gt;</Entry>
-  <Entry Index="2296">¡Ah, una historia magnífica! Siempre he tenido debilidad
-por historias de este tipo, de valor y altruismo.&lt;wait&gt;&lt;page&gt;
-Me tocan mucho la fibra sensible. Cuando me enteré de
-tus gloriosas hazañas... ¡ay, cómo lloré!&lt;wait&gt;</Entry>
-  <Entry Index="2297">&lt;playername&gt;, eres &lt;gender&gt;("un héroe","una heroína") que ha salvado a la
-población de no solo uno, sino de DOS naciones.&lt;wait&gt;</Entry>
-  <Entry Index="2298">¡Tres hurras por &lt;playername&gt;!
-¡Hip, hip, hurra! ¡Hip, hip, hurra! ¡HIP, HIP, HURRA!</Entry>
-  <Entry Index="2299">Dicen que estás preparándote para partir en un viaje
-para reunir ingredientes culinarios legendarios.&lt;wait&gt;</Entry>
-  <Entry Index="2300">Siempre tuve la esperanza de que algún día tendría la
-oportunidad de ver tales lujos gastronómicos.&lt;wait&gt;</Entry>
-  <Entry Index="2301">Si encuentras alguno, me sentiría honrado si me lo
-trajeses. No te preocupes. Solo lo tocaré con la mirada.&lt;wait&gt;</Entry>
-  <Entry Index="2302">¡Ah...! ¡Solo puedo imaginar lo superlativos que deben ser
-esos ingredientes para haberse ganado su rango de
-legendarios!&lt;wait&gt;</Entry>
-  <Entry Index="2303">¿Mmm? ¿Pasa algo?
-Tu cara indica perplejidad.&lt;wait&gt;</Entry>
-  <Entry Index="2304">¿Q-qué? ¿Que no planeas hacer eso? ¡Ah, venga ya! ¡No
-hay necesidad de ocultármelo!&lt;wait&gt;</Entry>
-  <Entry Index="2305">¡Oh...!&lt;wait&gt;</Entry>
-  <Entry Index="2306">Ejem... Lo entiendo. Tu secreto está a salvo conmigo. ¡Mis
-labios están sellados! Puedes confiar en mí.&lt;wait&gt;</Entry>
-  <Entry Index="2307">¡Dicen que te has embarcado en una gran aventura para
-adquirir ingredientes legendarios!&lt;wait&gt;</Entry>
-  <Entry Index="2308">Que te adentraste en una espesa jungla, y que seguiste
-adelante a duras penas, ¡hasta que te atacó una tribu
-indígena!&lt;wait&gt;</Entry>
+<Entry Index="2267">Jo, jo! E o que eu deveria fazer com isso? Vejo que você decidiu... bem, me testar, &lt;playername&gt;.&lt;wait&gt;</Entry>
+<Entry Index="2268">Jo, jo! Não me surpreende que &lt;gender&gt;("um fazendeiro","uma fazendeira") do seu calibre
+esteja &lt;gender&gt;("acostumado","acostumada") a lidar com todos os tipos de animais e insetos.&lt;wait&gt;</Entry>
+<Entry Index="2269">AAAAAAI!
+Heeeelp!&lt;wait&gt;</Entry>
+<Entry Index="2270">Bem, bem! Um exemplar excelente, sem dúvida!&lt;wait&gt;&lt;page&gt;
+Muito obrigado. Sabe, se Harris decidir se casar, talvez eu dê isso de presente para a parceira dele.&lt;wait&gt;</Entry>
+<Entry Index="2271">Mas que objeto maravilhoso! Mmm? Um presente para mim?&lt;wait&gt;&lt;page&gt;
+Muito gentil da sua parte, sim, mas acho que não vou dar muito uso. Talvez eu dê para a futura parceira de Harris.&lt;wait&gt;</Entry>
+<Entry Index="2272">Mas que objeto maravilhoso! O cheiro não incomoda os animais quando você o usa?&lt;wait&gt;&lt;page&gt;
+Mmm? Um presente para mim? Que &lt;gender&gt;("considerado","considerada") você é! Muito obrigado.&lt;wait&gt;</Entry>
+<Entry Index="2273">Ah, muito gentil! O Dia dos Namorados perde a graça
+se você não ganhar chocolates pelo menos uma vez, sabe?</Entry>
+<Entry Index="2274">Ah, muito gentil! O Dia dos Namorados perde a graça
+se você não ganhar chocolates pelo menos uma vez, sabe?</Entry>
+<Entry Index="2275">Jo, jo, jo! Uma notícia fantástica, sim! Muito boa
+notícia! Tenho certeza de que você tem um futuro
+brilhante pela frente.&lt;wait&gt;</Entry>
+<Entry Index="2276">&lt;playername&gt;, você já ouviu falar do Vale Esquecido?&lt;wait&gt;&lt;page&gt;
+É apenas um boato, é claro, mas dizem que alguém que vive
+lá, &lt;GCの主人公名&gt;, é uma celebridade local.&lt;wait&gt;&lt;page&gt;
+Eu adoraria conhecer essa pessoa... e talvez apertar a mão dela, se ela for tão nobre assim.&lt;wait&gt;</Entry>
+<Entry Index="2277">Há alguns anos, compartilhei o teto com um cavalheiro chamado Kanno.&lt;wait&gt;&lt;page&gt;
+Ele era um fotógrafo, sabe? Ele gostava muito de tirar fotos da paisagem de Cidade Mineral.&lt;wait&gt;&lt;page&gt;
+Mas um dia voltei para casa e vi que ele havia ido embora e deixado apenas uma carta. Fico me perguntando onde ele estará.&lt;wait&gt;</Entry>
+<Entry Index="2278">Mas bem, você conseguiu! Você venceu nosso venerável concurso gastronômico dez vezes! Não poderia estar mais orgulhoso como prefeito!&lt;wait&gt;</Entry>
+<Entry Index="2279">Bem, isso é apenas um rumor que ouvi do prefeito de uma cidade vizinha outro dia...&lt;wait&gt;</Entry>
+<Entry Index="2280">Mas parece que as notícias sobre sua habilidade e excelência em nosso ilustre concurso gastronômico chegaram ao Vale Esquecido.&lt;wait&gt;</Entry>
+<Entry Index="2281">&lt;playername&gt;, me disseram que você superou até mesmo um chef profissional durante sua aventura culinária. Impressionante!&lt;wait&gt;</Entry>
+<Entry Index="2282">Umpf. Não finja inocência, você não me engana. Eu sei o que você está planejando. &lt;wait&gt;&lt;page&gt;
+O que você queria, se esgueirar pelas minhas costas? Você não tem respeito pelo meu cargo de prefeito?&lt;wait&gt;</Entry>
+<Entry Index="2283">...&lt;wait&gt;</Entry>
+<Entry Index="2284">Você insiste em fingir ignorância? Você percebe que TODO MUNDO está falando de você, não é?&lt;wait&gt;</Entry>
+<Entry Index="2285">O quê? Você não fez nada? Não, não. É uma brincadeira.
+Você deve ter feito ALGO. O que foi?&lt;wait&gt;</Entry>
+<Entry Index="2286">Espere...!&lt;wait&gt;</Entry>
+<Entry Index="2287">Não... NÃO!&lt;wait&gt;</Entry>
+<Entry Index="2288">Céus! Isso não pode ser verdade!&lt;wait&gt;</Entry>
+<Entry Index="2289">Você quer usurpar meu cargo como prefeito de Cidade Mineral? Não! Eu não vou permitir, ouviu? Não vou permitir!&lt;wait&gt;&lt;page&gt;
+Minha família serviu esta cidade por gerações! Eu me RECUSO a deixar que você manche nosso bom nome!&lt;wait&gt;</Entry>
+<Entry Index="2290">Mmm? Você não está planejando isso?&lt;wait&gt;</Entry>
+<Entry Index="2291">Ah! Claro que não! Jo, jo, jo! Você nunca faria isso. Você não faria! Eu estava brincando o tempo todo.&lt;wait&gt;&lt;page&gt;
+Esplêndido! Sim, esplêndido!&lt;wait&gt;</Entry>
+<Entry Index="2292">Bem... o que estávamos falando mesmo?&lt;wait&gt;</Entry>
+<Entry Index="2293">&lt;playername&gt;, você não tem igual em Cidade Mineral!
+Você é um cidadão exemplar!&lt;wait&gt;</Entry>
+<Entry Index="2294">Eh? Do que estou falando? Ah, sim!
+Não precisa fingir humildade.&lt;wait&gt;&lt;page&gt;
+Afinal, você pôs fim a uma guerra! &lt;gender&gt;("Cansado","Cansada") de tanta luta, falou com os representantes dos dois países...&lt;wait&gt;&lt;page&gt;
+... e amoleceu seus corações com pratos caseiros típicos de seus lares. Pelo menos é o que dizem.&lt;wait&gt;</Entry>
+<Entry Index="2295">Os representantes ficaram tão comovidos com seus pratos que decretaram um cessar-fogo imediato. Pelo menos é o que me contaram.&lt;wait&gt;</Entry>
+<Entry Index="2296">Ah, uma história maravilhosa! Sempre tive uma queda por histórias desse tipo, de coragem e altruísmo.&lt;wait&gt;&lt;page&gt;
+Elas mexem muito comigo. Quando ouvi sobre suas gloriosas conquistas... ah, como chorei!&lt;wait&gt;</Entry>
+<Entry Index="2297">&lt;playername&gt;, você é &lt;gender&gt;("um herói","uma heroína") que salvou não uma, mas DUAS nações inteiras.&lt;wait&gt;</Entry>
+<Entry Index="2298">Três vivas para &lt;playername&gt;!
+Viva, viva! Viva, viva! VIVA, VIVA!</Entry>
+<Entry Index="2299">Dizem que você está se preparando para embarcar em uma grande jornada para conseguir ingredientes culinários lendários.&lt;wait&gt;</Entry>
+<Entry Index="2300">Sempre tive a esperança de ter a oportunidade de ver essas iguarias luxuosas um dia.&lt;wait&gt;</Entry>
+<Entry Index="2301">Se você encontrar algum, ficaria honrado se os trouxesse para mim. Não se preocupe. Só vou olhar.&lt;wait&gt;</Entry>
+<Entry Index="2302">Ah...! Só posso imaginar o quão extraordinários esses ingredientes devem ser para terem ganhado o título de lendários!&lt;wait&gt;</Entry>
+<Entry Index="2303">Mmm? Algum problema?
+Pela sua expressão, você parece perplexo(a).&lt;wait&gt;</Entry>
+<Entry Index="2304">O quê? Você não está planejando isso? Ah, caramba! Não há motivo para esconder de mim!&lt;wait&gt;</Entry>
+<Entry Index="2305">Oh...!&lt;wait&gt;</Entry>
+<Entry Index="2306">Cof, cof... Entendo. Seu segredo está seguro comigo. Meus lábios estão selados! Você pode confiar em mim.&lt;wait&gt;</Entry>
+<Entry Index="2307">Dizem que você embarcou em uma grande aventura para conseguir ingredientes lendários!&lt;wait&gt;</Entry>
+<Entry Index="2308">Que você entrou em uma densa selva e continuou seguindo em frente com dificuldade, até ser atacado por uma tribo indígena!&lt;wait&gt;</Entry>
   <Entry Index="2309">Me dijeron también que te secuestraron, que te ataron a
 un palo y te llevaron a su aldea, en la que te obligaron a
 cocinar para ellos.&lt;wait&gt;</Entry>
