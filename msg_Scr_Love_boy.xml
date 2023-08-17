@@ -1265,9 +1265,9 @@ Podemos conversar em particular aqui, certo?&lt;wait&gt;</Entry>
   <Entry Index="604">Bem, sobre o que estavamos conversando antes...
 Hm... Podemos esclarecer uma coisa?&lt;wait&gt;</Entry>
   <Entry Index="605">&lt;playername&gt;... Você tem &lt;gender&gt;("certeza","certeza")? Tem certeza
-que quer ficar conmigo?&lt;wait</Entry>
+que quer ficar conmigo?&lt;wait&gt;</Entry>
   <Entry Index="606">&lt;playername&gt;... Você tem &lt;gender&gt;("certeza","certeza")? Tem certeza
-que quer ficar conmigo?&lt;wait</Entry>
+que quer ficar conmigo?&lt;wait&gt;</Entry>
   <Entry Index="607">Aaah! Estou mais feliz do que um piso recém-polido!&lt;wait&gt;</Entry>
   <Entry Index="608">Sonhei com este dia desde que começamos a sair.&lt;wait&gt;&lt;page&gt;
 Você se tornou tão importante para mim, &lt;playername&gt;.
@@ -1390,7 +1390,7 @@ Onde você está?&lt;wait&gt;</Entry>
   <Entry Index="654">Ah! Mas que surpresa. Tente não me assustar assim
 &lt;playername&gt;.&lt;wait&gt;&lt;page&gt;
 Uh? Você quer saber o que eu estava fazendo?&lt;wait&gt;</Entry>
-  <Entry Index="655">&lt;gender&gt;("Bem-vindo","Bem-vinda"). Você veio ler alguns livros? Hein?&lt;wait&gt;&lt;page?
+  <Entry Index="655">&lt;gender&gt;("Bem-vindo","Bem-vinda"). Você veio ler alguns livros? Hein?&lt;wait&gt;&lt;page&gt;?
 Você quer saber o que eu estava fazendo?&lt;wait&gt;</Entry>
   <Entry Index="656">Bem, a verdade é que estou escrevendo um romance e
 há um livro que eu queria usar como referência.&lt;wait&gt;&lt;page&gt;
@@ -2642,7 +2642,7 @@ Acho que vou passar o dia sorrindo.
 Oh, mas não se preocupe.&lt;wait&gt;&lt;page&gt;
 Bem, eu deveria voltar. Mal posso esperar para ver como
 será nosso próximo capítulo &lt;gender&gt;("juntos","juntas").&lt;wait&gt;</Entry>
-  <Entry Index="1192">&lt;playername&gt;!&lt;wait</Entry>
+  <Entry Index="1192">&lt;playername&gt;!&lt;wait&gt;</Entry>
   <Entry Index="1193">Olá.
 Eu vim te ver.&lt;wait&gt;&lt;page&gt;
 Você teria tempo para ir a algum lugar?&lt;wait&gt;</Entry>
