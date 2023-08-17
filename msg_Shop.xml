@@ -975,7 +975,7 @@ sair?&lt;wait&gt;</Entry>
 <Entry Index="752"/>
 <Entry Index="753"/>
 <Entry Index="754"/>
-<Entry Index="755">Você entregou sua &lt;string0&gt;, seu &lt;cadeia1&gt; e
+<Entry Index="755">Você entregou sua &lt;string0&gt;, seu &lt;string1&gt; e
 você &lt;string2&gt;, e você tem solicitado para melhorar sua
 &lt;string3&gt;.&lt;wait&gt;</Entry>
 <Entry Index="756">Martelo</Entry>
@@ -1042,7 +1042,7 @@ preocupe.&lt;wait&gt;</Entry>
 <Entry Index="797">Trabalho na curso</Entry>
 <Entry Index="798">Em posse</Entry>
 <Entry Index="799">Materiais necessário</Entry>
-<Entry Index="800">Você enviou sua &lt;string0&gt; e você &lt;cadeia1&gt; e
+<Entry Index="800">Você enviou sua &lt;string0&gt; e você &lt;string1&gt; e
 você solicitou que eu modificasse seu
 &lt;string2&gt;.&lt;wait&gt;</Entry>
 <Entry Index="801">Essa ferramenta não está pronta para
@@ -1050,7 +1050,7 @@ aprimoramento.&lt;wait&gt;</Entry>
 <Entry Index="802">Você não tem o minério necessário para atualizar esse
 ferramenta. Você pode obtê-lo na mina de primavera.&lt;wait&gt;</Entry>
 <Entry Index="803">Parece que você não tem seu &lt;string0&gt;
-&lt;cadeia1&gt;. Traga a ferramenta que deseja
+&lt;string1&gt;. Traga a ferramenta que deseja
 atualizar.&lt;wait&gt;</Entry>
 <Entry Index="804">Parece que você não tem minérios que eu possa trabalhar.
 Você pode procurá-lo na mina da primavera.&lt;wait&gt;</Entry>
