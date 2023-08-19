@@ -25,9 +25,9 @@ conhecer você.&lt;wait&gt;</Entry>
 alguém se mudou para aquela fazenda. É você, certo?&lt;wait&gt;&lt;page&gt;
 Você é &lt;playername&gt;? Eu sou Rick. É um prazer
 conhecer você.&lt;wait&gt;</Entry>
-  <Entry Index="13">Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda"). Você veio fazer 
+  <Entry Index="13">Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda"). Você veio fazer 
 compras, eu acho.&lt;wait&gt;</Entry>
-  <Entry Index="14">Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda"). Você veio fazer 
+  <Entry Index="14">Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda"). Você veio fazer 
 compras, eu acho.&lt;wait&gt;</Entry>
   <Entry Index="15">Claro! Fique a vontade, se tiver alguma dúvida 
 me pergunte, estarei por perto.&lt;wait&gt;</Entry>
@@ -239,8 +239,8 @@ Cuide bem dele, está bem, querida?&lt;wait&gt;</Entry>
   <Entry Index="112">Ah! Aquele relógio! Eu me lembro!
 Rick deu para você? Entendi.
 Cuide bem dele, está bem, querida?&lt;wait&gt;</Entry>
-  <Entry Index="113">Ah! Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
-  <Entry Index="114">Ah! Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="113">Ah! Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
+  <Entry Index="114">Ah! Olá, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="115">&lt;gender&gt;("Bem-vindo","Bem-vinda")!&lt;wait&gt; Como você está hoje? Ótimo, pelo que vejo.&lt;wait&gt;</Entry>
   <Entry Index="116">Olá, &lt;playername&gt;!&lt;wait&gt;</Entry>
   <Entry Index="117">Olá, &lt;playername&gt;!&lt;wait&gt;</Entry>
@@ -1472,7 +1472,7 @@ Mas parece que há algo que o aflige. É refletido
 nas ferramentas que cria.&lt;wait&gt;</Entry>
   <Entry Index="623">Gray!&lt;wait&gt;</Entry>
   <Entry Index="624">E aí, vovô?&lt;wait&gt;&lt;page&gt;
-Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="625">Gray, você pode parar por hoje.&lt;wait&gt;</Entry>
   <Entry Index="626">Você está brincando comigo?
 Você nunca me deixa eu sair mais cedo.&lt;wait&gt;</Entry>
@@ -2344,7 +2344,7 @@ Estou animado com o nosso futuro juntos, embora
 as coisas não mudem muito.&lt;wait&gt;</Entry>
   <Entry Index="1021">De qualquer forma, tenho que voltar ao trabalho.
 Até mais!&lt;wait&gt;</Entry>
-  <Entry Index="1022">Olá, &lt;playername&gt;! &lt;gender&gt;("Bem-vindo", "Bem-vinda")!&lt;wait&gt;
+  <Entry Index="1022">Olá, &lt;playername&gt;! &lt;gender&gt;("Bem-vindo","Bem-vinda")!&lt;wait&gt;
 Gostaria de comer algo?&lt;wait&gt;</Entry>
   <Entry Index="1023">Hein? Se eu tiver algum tempo livre, você quer
 ir pescar?&lt;wait&gt;</Entry>
@@ -2779,9 +2779,9 @@ Então eu aceito. Vamos tentar.&lt;wait&gt;</Entry>
 Bem, eu vou indo agora.
 Até depois.&lt;wait&gt;</Entry>
   <Entry Index="1208">Ah, &lt;playername&gt;.
-&lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+&lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="1209">Ah, &lt;playername&gt;.
-&lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+&lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="1210">O vovô está fora, cuidando de alguns negócios.&lt;wait&gt;</Entry>
   <Entry Index="1211">Desculpe, mas se você quiser falar com ele,
 terá que voltar mais tarde.&lt;wait&gt;</Entry>
@@ -3765,7 +3765,7 @@ agora posso fazer coisas simples como esta.&lt;wait&gt;&lt;page&gt;
 Eu disse para mim mesmo: "Se eu fizer algo legal,
 eu darei para &lt;playername&gt;".&lt;wait&gt;</Entry>
   <Entry Index="1520">E aí, vovô?&lt;wait&gt;&lt;page&gt;
-Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo", "Bem-vinda").&lt;wait&gt;</Entry>
+Ah, &lt;playername&gt;. &lt;gender&gt;("Bem-vindo","Bem-vinda").&lt;wait&gt;</Entry>
   <Entry Index="1521">Hum... Olá. Acho que é um bom momento para 
 perguntar a si mesmo.&lt;wait&gt;&lt;page&gt;
 Você está planejando ficar nesta cidade por muito
